@@ -1,3 +1,9 @@
+
+# secrets
+*.env
+
+
+# yarn files
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
